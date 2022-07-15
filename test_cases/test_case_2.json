@@ -1,0 +1,10 @@
+{
+  "TestCase_id":"2",
+  "Title":"Authorization",
+  "Steps":
+  {
+    "1":"Enter login",
+    "2":"Enter password"
+  },
+  "Expected result":"System approves and show home screen"
+}
