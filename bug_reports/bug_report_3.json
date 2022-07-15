@@ -1,0 +1,14 @@
+{
+  "Bug_id":"3",
+  "Priority":"High",
+  "Summary":"When adding a product to the Cart, another product is added by default",
+  "Steps to reproduce":
+  {
+    "1":"Go to any Category",
+    "2":"Add any item to the Cart",
+    "3":"Go to the Cart",
+    "4":"Observe the product in the Cart"
+  },
+  "Expected result":"The selected product is in the Cart",
+  "Actual result":"The Cart contains the selected product and the default one"
+}

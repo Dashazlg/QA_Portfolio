@@ -1,0 +1,13 @@
+{
+  "Bug_id":"2",
+  "Priority":"Major",
+  "Summary":"Orders are counted from scratch in Purchase history",
+  "Steps to reproduce":
+  {
+   "1":"Go to the Cart",
+   "2":"Make an order",
+   "3":"Go to Purchase history"
+  },
+  "Expected result":"Orders are counted from 1",
+  "Actual result":"Orders are counted from 0"
+}
