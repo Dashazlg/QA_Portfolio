@@ -3,8 +3,8 @@
   "Title":"Detailed infirmation of profile user's",
   "Steps":
   {
-    "1":"Click on dropdown "Account",
-    "2":"Choose "Personal data"
+    "1":"Click on dropdown Account",
+    "2":"Choose Personal data"
   },
   "Expected result":"Detail fields only where user added detailed information"
 }

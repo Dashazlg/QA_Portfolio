@@ -1,6 +1,6 @@
 {
   "TestCase_id":"1",
-  "Title":"Total price should reflect the product quantity",
+  "Title":"Total price reflect the product quantity",
   "Steps":
   {
     "1":"Go to any Category",
