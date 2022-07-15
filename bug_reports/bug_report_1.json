@@ -1,6 +1,6 @@
 {
   "Bug_id":"1",
-  "Priority":"Hight",
+  "Priority":"High",
   "Summary":"Total price does not reflect to the product quantity",
   "Steps to reproduce":
   {
